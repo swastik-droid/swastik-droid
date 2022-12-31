@@ -3,7 +3,7 @@ x=int(input())
 y=[]
 for i in range(0,x):
     f=input()
-    y.append(x)
+    y.append(f)
 print(y)    
 a=int()
 for i in y:
