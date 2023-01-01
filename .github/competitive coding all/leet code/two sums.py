@@ -5,8 +5,7 @@ for i in range(0,x):
     nums.append(f)
 print(nums)    
 y=int(input("target="))
-a=int()
-b=int()
+
 for j,k in enumerate(nums):
   a=k
   c=j+1
